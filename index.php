@@ -12,7 +12,7 @@ include("marco-right.php");
    <div  style="width: 100%;">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left;">
-        	<h1>¿Quién es Geardo Valdez?</h1>
+        	<h1>¿Quién es Gerardo Valdez?</h1>
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
@@ -35,7 +35,7 @@ include("marco-right.php");
     
 
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Particula a Distancia Juan Montalvo donde me gradue en el año 2013, de la especialidad de Informatica, apenas me gradue me incline por mi otra pascion que fue la musica y me decide por irme a estudiar a la Universidad de las Artes ubicada en la ciudad de Guayaquil , pero retorne a la ciudad donde ya en el año 2018 retome mis estudios informaticos Ingresando a la Universidad Luis Vargas Torres en la carrera de Ing. en Tic`s`, donde cruzando el primer año comense a laborar como docente en el Colegio Particular Cristiano del Salvador diviendo el tiempo entre la Universidad y el trabajo donde acquire mucha esperiencia como docente implantiendo 
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Particula a Distancia Juan Montalvo donde me gradue en el año 2013, de la especialidad de Informatica, apenas me gradue me incline por mi otra pasion que fue la musica y me decide por irme a estudiar a la Universidad de las Artes ubicada en la ciudad de Guayaquil , pero retorne a la ciudad donde ya en el año 2018 retome mis estudios informaticos Ingresando a la Universidad Luis Vargas Torres en la carrera de Ing. en Tic`s`, donde cruzando el primer año comense a laborar como docente en el Colegio Particular Cristiano del Salvador diviendo el tiempo entre la Universidad y el trabajo donde adquire mucha esperiencia como docente implantiendo 
 				   materias como Dibujo tecnico y artisco, Musica, Ciencias Sociales ,Cultura Fisca y en ocaciones una que otra catedra de programacion a los estudiantes de primero de bachillerato.</p>
 				   <p class="eys-parrafo"></p>
 <p class="eys-parrafo"> </p>
@@ -44,7 +44,7 @@ include("marco-right.php");
     <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
     
 
-                   <p  class="eys-parrafo">En la actualidad me encuentro elaborando una serie de proyectos con un primo ex estudiando de la Universidad Tecnica Luis Vargas Torres diseñando sistemas web combinando HTML, CSS, JavaScrip y PHP los cuales aprendimo en lo largo de nuestros estudias y seguimos aprendiendolos para poderlos perfeccionar, nuestro situo web es<b><a href="https://juniortecnologic.com/"> juniortecnologic.</a></b></p>
+                   <p  class="eys-parrafo">En la actualidad me encuentro elaborando una serie de proyectos con un primo ex estudiando de la Universidad Tecnica Luis Vargas Torres diseñando sistemas web combinando HTML, CSS, JavaScrip y PHP los cuales aprendimos en lo largo de nuestros estudios y seguimos aprendiendolos para poderlos perfeccionar, nuestro situo web es<b><a href="https://juniortecnologic.com/"> juniortecnologic.</a></b></p>
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
