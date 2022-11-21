@@ -8,8 +8,10 @@
 
 <html lang="es">
 <head>
- <title> Educaysoft </title>
+ <title> Valdez Araujo </title>
 <meta charset="utf-8"/>
+<link rel="icon" href =" images/gerardo.ico " type="imagen/x-icon"/>
+< meta name="description" content=" Biografía de Valdez Gerardo"/>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" type="text/css" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/assets/css/eys.css" />   
@@ -111,11 +113,10 @@ width:30%;
 <div id="wrapper"  style="border:5px solid red; position:relative;">
 <div id="main" >
       <div class="navbar">
-        <a href="index.php">EDUCAYSOFT</a>
-        <a href="eys-capacitacion.php">Capacitación</a>
-        <a href="eys-asesoria-tecnica.php">Asesoria Tecnica</a>
-        <a href="eys-investigacion.php">Investigación</a>
-        <a href="eys-desarrollo-web.php">Desarrollo Web</a>
+        <a href="index.php">Inicio</a>
+        <a href="eys-capacitacion.php">Estudios</a>
+        <a href="eys-asesoria-tecnica.php">Conocimiento Informatico</a>
+        <a href="eys-investigacion.php">Hooby</a>
     	<a href="donacion.php">&#128151; Donaciones</a>
         </div>
     
